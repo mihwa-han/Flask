@@ -5,3 +5,5 @@
 2. [Udacity Full Stack Foundation](https://www.udacity.com/course/full-stack-foundations--ud088)
 
 3. [Others](https://www.quora.com/What-are-best-resources-to-learn-Flask)
+
+4. [Building a Web Application with Flask, the Python Micro-Framework] - Video Available at O'reilly
