@@ -6,4 +6,4 @@
 
 3. [Others](https://www.quora.com/What-are-best-resources-to-learn-Flask)
 
-4. [Building a Web Application with Flask, the Python Micro-Framework] - Video Available at O'reilly
+4. [Building a Web Application with Flask, the Python Micro-Framework] (https://www.safaribooksonline.com/library/)
