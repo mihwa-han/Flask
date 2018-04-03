@@ -7,3 +7,5 @@
 3. [Others](https://www.quora.com/What-are-best-resources-to-learn-Flask)
 
 4. [Building a Web Application with Flask, the Python Micro-Framework] - O'Reilly Online
+
+5. [Deploy Flask app using Heroku](https://www.youtube.com/watch?v=skc-ZEU9kO8)
