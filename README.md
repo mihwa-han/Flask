@@ -13,3 +13,12 @@
 6. [Deploying your Flask Application to Heroku](https://medium.com/the-andela-way/deploying-your-flask-application-to-heroku-c99050bce8f9)
 
 7. [PluralSight Flask Introduction](https://app.pluralsight.com/player?course=flask-micro-framework-introduction&author=reindertjan-ekker&name=flask-micro-framework-introduction-m4-viewlogic&clip=1&mode=live)
+
+- Reference:
+http://jinja.pocoo.org
+
+http://www.initializr.com
+
+http://flask.pocoo.org/docs/quickstart/#url-building
+
+https://pypi.python.org/pypi/Flask-Bootstrap
