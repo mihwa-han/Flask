@@ -22,3 +22,12 @@ http://www.initializr.com
 http://flask.pocoo.org/docs/quickstart/#url-building
 
 https://pypi.python.org/pypi/Flask-Bootstrap
+
+
+### Jinja: If, For, With
+
+{% if expression %} ... {% else %} ... {% endif %}
+
+{% for var in expression %} ... {% endfor %}
+
+{% with var = expression %} ... {% endwith %}
