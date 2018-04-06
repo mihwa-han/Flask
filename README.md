@@ -11,3 +11,5 @@
 5. [Deploy Flask app using Heroku (YouTube)](https://www.youtube.com/watch?v=skc-ZEU9kO8)
 
 6. [Deploying your Flask Application to Heroku](https://medium.com/the-andela-way/deploying-your-flask-application-to-heroku-c99050bce8f9)
+
+7. [PluralSight Flask Introduction](https://app.pluralsight.com/player?course=flask-micro-framework-introduction&author=reindertjan-ekker&name=flask-micro-framework-introduction-m4-viewlogic&clip=1&mode=live)
